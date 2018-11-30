@@ -257,12 +257,12 @@
     <dwg name="278"/>
    </drawings>
   </element>
-  <element id="8" elementName="Drawing_2" elementFolder="Drawing_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+  <element id="8" elementName="Mirror" elementFolder="Mirror" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
    </drawings>
   </element>
-  <element id="9" elementName="Drawing_2_1" elementFolder="Drawing_2_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+  <element id="9" elementName="AnnabelleMovement" elementFolder="AnnabelleMovement" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
    </drawings>
@@ -796,10 +796,10 @@
      <elementSeq exposures="274-277" val="274" id="7"/>
      <elementSeq exposures="278-284" val="278" id="7"/>
     </column>
-    <column type="0" name="Drawing_2" displayOrder="3" width="100" anonymous="true" id="8">
+    <column type="0" name="Mirror" displayOrder="3" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-289" val="1" id="8"/>
     </column>
-    <column type="0" name="Drawing_2_1" displayOrder="5" width="100" anonymous="true" id="9">
+    <column type="0" name="AnnabelleMovement" displayOrder="5" width="100" anonymous="true" id="9">
      <elementSeq exposures="41" val="1" id="9"/>
     </column>
    </columns>
@@ -967,7 +967,7 @@
        <canAnimate val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing_2" pos="0,0,0" publishUnderTab="Drawing_2">
+     <module type="READ" name="Mirror" pos="0,0,0" publishUnderTab="Drawing_2">
       <options>
        <version val="1"/>
        <collapsed val="false"/>
@@ -1027,7 +1027,7 @@
        <ikStiffness val="1" defaultValue="1"/>
        <drawing>
         <elementMode val="true"/>
-        <element col="Drawing_2">
+        <element col="Mirror">
          <layer/>
         </element>
         <customName>
@@ -1176,7 +1176,7 @@
        <canAnimate val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing_2_1" pos="0,0,0" publishUnderTab="Drawing_2_1">
+     <module type="READ" name="AnnabelleMovement" pos="0,0,0" publishUnderTab="Drawing_2_1">
       <options>
        <version val="1"/>
        <collapsed val="false"/>
@@ -1236,7 +1236,7 @@
        <ikStiffness val="1" defaultValue="1"/>
        <drawing>
         <elementMode val="true"/>
-        <element col="Drawing_2_1">
+        <element col="AnnabelleMovement">
          <layer/>
         </element>
         <customName>
@@ -1808,9 +1808,9 @@
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
      <link out="LeoFinal" in="Composite" inport="8"/>
-     <link out="Drawing_2" in="Composite" inport="7"/>
+     <link out="Mirror" in="Composite" inport="7"/>
      <link out="StoryBoard" in="Composite" inport="6"/>
-     <link out="Drawing_2_1" in="Composite" inport="5"/>
+     <link out="AnnabelleMovement" in="Composite" inport="5"/>
      <link out="LeoTalking" in="Composite" inport="4"/>
      <link out="Dialogue" in="Composite" inport="3"/>
      <link out="Bed" in="Composite" inport="2"/>
