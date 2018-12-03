@@ -166,6 +166,10 @@
     <dwg name="97"/>
     <dwg name="99"/>
     <dwg name="101"/>
+    <dwg name="103"/>
+    <dwg name="105"/>
+    <dwg name="107"/>
+    <dwg name="109"/>
    </drawings>
   </element>
   <element id="7" elementName="Dialogue" elementFolder="Dialogue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -766,7 +770,11 @@
      <elementSeq exposures="95-96" val="95" id="6"/>
      <elementSeq exposures="97-98" val="97" id="6"/>
      <elementSeq exposures="99-100" val="99" id="6"/>
-     <elementSeq exposures="101" val="101" id="6"/>
+     <elementSeq exposures="101-102" val="101" id="6"/>
+     <elementSeq exposures="103-104" val="103" id="6"/>
+     <elementSeq exposures="105-106" val="105" id="6"/>
+     <elementSeq exposures="107-108" val="107" id="6"/>
+     <elementSeq exposures="109" val="109" id="6"/>
     </column>
     <column type="0" name="Dialogue" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="11" val="7" id="7"/>
