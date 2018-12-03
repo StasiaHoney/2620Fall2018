@@ -169,6 +169,27 @@
     <dwg name="103"/>
     <dwg name="105"/>
     <dwg name="107"/>
+    <dwg name="109"/>
+    <dwg name="111"/>
+    <dwg name="113"/>
+    <dwg name="115"/>
+    <dwg name="117"/>
+    <dwg name="119"/>
+    <dwg name="121"/>
+    <dwg name="123"/>
+    <dwg name="125"/>
+    <dwg name="127"/>
+    <dwg name="129"/>
+    <dwg name="131"/>
+    <dwg name="133"/>
+    <dwg name="135"/>
+    <dwg name="137"/>
+    <dwg name="139"/>
+    <dwg name="141"/>
+    <dwg name="143"/>
+    <dwg name="145"/>
+    <dwg name="139_1"/>
+    <dwg name="141_1"/>
    </drawings>
   </element>
   <element id="7" elementName="Dialogue" elementFolder="Dialogue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -772,7 +793,24 @@
      <elementSeq exposures="101-102" val="101" id="6"/>
      <elementSeq exposures="103-104" val="103" id="6"/>
      <elementSeq exposures="105-106" val="105" id="6"/>
-     <elementSeq exposures="107" val="107" id="6"/>
+     <elementSeq exposures="107-108" val="107" id="6"/>
+     <elementSeq exposures="109-110" val="109" id="6"/>
+     <elementSeq exposures="111-112" val="111" id="6"/>
+     <elementSeq exposures="113-114" val="113" id="6"/>
+     <elementSeq exposures="115-116" val="115" id="6"/>
+     <elementSeq exposures="117-118" val="117" id="6"/>
+     <elementSeq exposures="119-120" val="119" id="6"/>
+     <elementSeq exposures="121-122" val="121" id="6"/>
+     <elementSeq exposures="123-124" val="123" id="6"/>
+     <elementSeq exposures="125-126" val="125" id="6"/>
+     <elementSeq exposures="127-128" val="127" id="6"/>
+     <elementSeq exposures="129-130" val="129" id="6"/>
+     <elementSeq exposures="131-132" val="131" id="6"/>
+     <elementSeq exposures="133-134" val="133" id="6"/>
+     <elementSeq exposures="135-136" val="135" id="6"/>
+     <elementSeq exposures="137-138" val="137" id="6"/>
+     <elementSeq exposures="139-140" val="139_1" id="6"/>
+     <elementSeq exposures="141" val="141_1" id="6"/>
     </column>
     <column type="0" name="Dialogue" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="11" val="7" id="7"/>
