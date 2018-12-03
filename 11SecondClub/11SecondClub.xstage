@@ -190,6 +190,11 @@
     <dwg name="145"/>
     <dwg name="139_1"/>
     <dwg name="141_1"/>
+    <dwg name="143_1"/>
+    <dwg name="145_1"/>
+    <dwg name="147"/>
+    <dwg name="149"/>
+    <dwg name="151"/>
    </drawings>
   </element>
   <element id="7" elementName="Dialogue" elementFolder="Dialogue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -362,6 +367,17 @@
     <dwg name="1_1"/>
     <dwg name="3_1"/>
     <dwg name="5_1"/>
+    <dwg name="7_1"/>
+    <dwg name="9_1"/>
+    <dwg name="11_1"/>
+    <dwg name="13_1"/>
+    <dwg name="15_1"/>
+    <dwg name="17_1"/>
+    <dwg name="19_1"/>
+    <dwg name="21_1"/>
+    <dwg name="23_1"/>
+    <dwg name="25"/>
+    <dwg name="27"/>
    </drawings>
   </element>
  </elements>
@@ -744,8 +760,8 @@
      <elementSeq exposures="234-252" val="231" id="5"/>
      <elementSeq exposures="253" val="250" id="5"/>
     </column>
-    <column type="0" name="Drawing_1_4" displayOrder="6" width="100" anonymous="true" id="6">
-     <elementSeq exposures="1,11-12" val="1" id="6"/>
+    <column type="0" name="Drawing_1_4" display="false" displayOrder="6" width="100" anonymous="true" id="6">
+     <elementSeq exposures="11-12" val="1" id="6"/>
      <elementSeq exposures="13-14" val="2" id="6"/>
      <elementSeq exposures="15-16" val="3" id="6"/>
      <elementSeq exposures="17-18" val="4" id="6"/>
@@ -809,8 +825,6 @@
      <elementSeq exposures="133-134" val="133" id="6"/>
      <elementSeq exposures="135-136" val="135" id="6"/>
      <elementSeq exposures="137-138" val="137" id="6"/>
-     <elementSeq exposures="139-140" val="139_1" id="6"/>
-     <elementSeq exposures="141" val="141_1" id="6"/>
     </column>
     <column type="0" name="Dialogue" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="11" val="7" id="7"/>
@@ -944,10 +958,21 @@
     <column type="0" name="Mirror" displayOrder="3" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-289" val="1" id="8"/>
     </column>
-    <column type="0" name="AnnabelleMovement" display="false" displayOrder="5" width="100" anonymous="true" id="9">
+    <column type="0" name="AnnabelleMovement" displayOrder="5" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-2" val="1_1" id="9"/>
      <elementSeq exposures="3-4" val="3_1" id="9"/>
-     <elementSeq exposures="5" val="5_1" id="9"/>
+     <elementSeq exposures="5-6" val="5_1" id="9"/>
+     <elementSeq exposures="7-8" val="7_1" id="9"/>
+     <elementSeq exposures="9-10" val="9_1" id="9"/>
+     <elementSeq exposures="11-12" val="11_1" id="9"/>
+     <elementSeq exposures="13-14" val="13_1" id="9"/>
+     <elementSeq exposures="15-16" val="15_1" id="9"/>
+     <elementSeq exposures="17-18" val="17_1" id="9"/>
+     <elementSeq exposures="19-20" val="19_1" id="9"/>
+     <elementSeq exposures="21-22" val="21_1" id="9"/>
+     <elementSeq exposures="23-24" val="23_1" id="9"/>
+     <elementSeq exposures="25-26" val="25" id="9"/>
+     <elementSeq exposures="27" val="27" id="9"/>
     </column>
    </columns>
    <options>
@@ -1325,7 +1350,6 @@
      </module>
      <module type="READ" name="AnnabelleMovement" pos="0,0,0" publishUnderTab="Drawing_2_1">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -1430,6 +1454,7 @@
      </module>
      <module type="READ" name="LeoTalking" pos="0,0,0" publishUnderTab="Drawing_1_4">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>

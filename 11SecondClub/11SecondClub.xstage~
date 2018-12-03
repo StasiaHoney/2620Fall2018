@@ -190,6 +190,10 @@
     <dwg name="145"/>
     <dwg name="139_1"/>
     <dwg name="141_1"/>
+    <dwg name="143_1"/>
+    <dwg name="145_1"/>
+    <dwg name="147"/>
+    <dwg name="149"/>
    </drawings>
   </element>
   <element id="7" elementName="Dialogue" elementFolder="Dialogue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -745,7 +749,7 @@
      <elementSeq exposures="253" val="250" id="5"/>
     </column>
     <column type="0" name="Drawing_1_4" displayOrder="6" width="100" anonymous="true" id="6">
-     <elementSeq exposures="1,11-12" val="1" id="6"/>
+     <elementSeq exposures="11-12" val="1" id="6"/>
      <elementSeq exposures="13-14" val="2" id="6"/>
      <elementSeq exposures="15-16" val="3" id="6"/>
      <elementSeq exposures="17-18" val="4" id="6"/>
@@ -810,7 +814,11 @@
      <elementSeq exposures="135-136" val="135" id="6"/>
      <elementSeq exposures="137-138" val="137" id="6"/>
      <elementSeq exposures="139-140" val="139_1" id="6"/>
-     <elementSeq exposures="141" val="141_1" id="6"/>
+     <elementSeq exposures="141-142" val="141_1" id="6"/>
+     <elementSeq exposures="143-144" val="143_1" id="6"/>
+     <elementSeq exposures="145-146" val="145_1" id="6"/>
+     <elementSeq exposures="147-148" val="147" id="6"/>
+     <elementSeq exposures="149" val="149" id="6"/>
     </column>
     <column type="0" name="Dialogue" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="11" val="7" id="7"/>
@@ -944,7 +952,7 @@
     <column type="0" name="Mirror" displayOrder="3" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-289" val="1" id="8"/>
     </column>
-    <column type="0" name="AnnabelleMovement" display="false" displayOrder="5" width="100" anonymous="true" id="9">
+    <column type="0" name="AnnabelleMovement" displayOrder="5" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-2" val="1_1" id="9"/>
      <elementSeq exposures="3-4" val="3_1" id="9"/>
      <elementSeq exposures="5" val="5_1" id="9"/>
