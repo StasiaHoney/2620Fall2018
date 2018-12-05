@@ -225,6 +225,12 @@
     <dwg name="193"/>
     <dwg name="183"/>
     <dwg name="185_1"/>
+    <dwg name="195"/>
+    <dwg name="197"/>
+    <dwg name="199"/>
+    <dwg name="201"/>
+    <dwg name="203"/>
+    <dwg name="205"/>
    </drawings>
   </element>
   <element id="7" elementName="Dialogue" elementFolder="Dialogue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -424,7 +430,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="095b3c346ce7e5d8" nbframes="290">
+  <scene name="Top" id="095b3c346ce7e5d8" nbframes="303">
    <columns>
     <column type="0" name="Drawing" displayOrder="4" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-2" val="1_1" id="1"/>
@@ -873,7 +879,13 @@
      <elementSeq exposures="187-188" val="187" id="6"/>
      <elementSeq exposures="189-190" val="189" id="6"/>
      <elementSeq exposures="191-192" val="191" id="6"/>
-     <elementSeq exposures="193" val="193" id="6"/>
+     <elementSeq exposures="193-194" val="193" id="6"/>
+     <elementSeq exposures="195-196" val="195" id="6"/>
+     <elementSeq exposures="197-198" val="197" id="6"/>
+     <elementSeq exposures="199-200" val="199" id="6"/>
+     <elementSeq exposures="201-202" val="201" id="6"/>
+     <elementSeq exposures="203-204" val="203" id="6"/>
+     <elementSeq exposures="205" val="205" id="6"/>
     </column>
     <column type="0" name="Dialogue" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="11" val="7" id="7"/>
