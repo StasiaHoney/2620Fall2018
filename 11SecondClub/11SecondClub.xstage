@@ -231,6 +231,32 @@
     <dwg name="201"/>
     <dwg name="203"/>
     <dwg name="205"/>
+    <dwg name="197_1"/>
+    <dwg name="201_1"/>
+    <dwg name="205_1"/>
+    <dwg name="209"/>
+    <dwg name="213"/>
+    <dwg name="215"/>
+    <dwg name="219"/>
+    <dwg name="221"/>
+    <dwg name="223"/>
+    <dwg name="225"/>
+    <dwg name="227"/>
+    <dwg name="229"/>
+    <dwg name="231"/>
+    <dwg name="233"/>
+    <dwg name="235"/>
+    <dwg name="237"/>
+    <dwg name="247"/>
+    <dwg name="249"/>
+    <dwg name="251"/>
+    <dwg name="253"/>
+    <dwg name="255"/>
+    <dwg name="257"/>
+    <dwg name="259"/>
+    <dwg name="261"/>
+    <dwg name="263"/>
+    <dwg name="268"/>
    </drawings>
   </element>
   <element id="7" elementName="Dialogue" elementFolder="Dialogue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -430,7 +456,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="095b3c346ce7e5d8" nbframes="303">
+  <scene name="Top" id="095b3c346ce7e5d8" nbframes="285">
    <columns>
     <column type="0" name="Drawing" displayOrder="4" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-2" val="1_1" id="1"/>
@@ -881,11 +907,36 @@
      <elementSeq exposures="191-192" val="191" id="6"/>
      <elementSeq exposures="193-194" val="193" id="6"/>
      <elementSeq exposures="195-196" val="195" id="6"/>
-     <elementSeq exposures="197-198" val="197" id="6"/>
-     <elementSeq exposures="199-200" val="199" id="6"/>
-     <elementSeq exposures="201-202" val="201" id="6"/>
-     <elementSeq exposures="203-204" val="203" id="6"/>
-     <elementSeq exposures="205" val="205" id="6"/>
+     <elementSeq exposures="197-198" val="197_1" id="6"/>
+     <elementSeq exposures="199-200" val="197" id="6"/>
+     <elementSeq exposures="201-202" val="201_1" id="6"/>
+     <elementSeq exposures="203-204" val="199" id="6"/>
+     <elementSeq exposures="205-206" val="205_1" id="6"/>
+     <elementSeq exposures="207-208" val="201" id="6"/>
+     <elementSeq exposures="209-210" val="209" id="6"/>
+     <elementSeq exposures="211-212" val="203" id="6"/>
+     <elementSeq exposures="213-214" val="213" id="6"/>
+     <elementSeq exposures="215-218" val="215" id="6"/>
+     <elementSeq exposures="219-220" val="219" id="6"/>
+     <elementSeq exposures="221-222" val="221" id="6"/>
+     <elementSeq exposures="223-224" val="223" id="6"/>
+     <elementSeq exposures="225-226" val="225" id="6"/>
+     <elementSeq exposures="227-228" val="227" id="6"/>
+     <elementSeq exposures="229-230" val="229" id="6"/>
+     <elementSeq exposures="231-232" val="231" id="6"/>
+     <elementSeq exposures="233-234" val="233" id="6"/>
+     <elementSeq exposures="235-236" val="235" id="6"/>
+     <elementSeq exposures="237-246" val="237" id="6"/>
+     <elementSeq exposures="247-248" val="247" id="6"/>
+     <elementSeq exposures="249-250" val="249" id="6"/>
+     <elementSeq exposures="251-252" val="251" id="6"/>
+     <elementSeq exposures="253-254" val="253" id="6"/>
+     <elementSeq exposures="255-256" val="255" id="6"/>
+     <elementSeq exposures="257-258" val="257" id="6"/>
+     <elementSeq exposures="259-260" val="259" id="6"/>
+     <elementSeq exposures="261-262" val="261" id="6"/>
+     <elementSeq exposures="263-264" val="263" id="6"/>
+     <elementSeq exposures="265" val="268" id="6"/>
     </column>
     <column type="0" name="Dialogue" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="11" val="7" id="7"/>
