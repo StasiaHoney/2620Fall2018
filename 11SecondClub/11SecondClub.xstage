@@ -262,6 +262,9 @@
     <dwg name="271"/>
     <dwg name="273"/>
     <dwg name="275"/>
+    <dwg name="275_1"/>
+    <dwg name="277"/>
+    <dwg name="278"/>
    </drawings>
   </element>
   <element id="7" elementName="Dialogue" elementFolder="Dialogue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -445,6 +448,14 @@
     <dwg name="23_1"/>
     <dwg name="25"/>
     <dwg name="27"/>
+    <dwg name="29"/>
+    <dwg name="31"/>
+    <dwg name="33"/>
+    <dwg name="35"/>
+    <dwg name="37"/>
+    <dwg name="31_1"/>
+    <dwg name="33_1"/>
+    <dwg name="35_1"/>
    </drawings>
   </element>
  </elements>
@@ -827,7 +838,7 @@
      <elementSeq exposures="234-252" val="231" id="5"/>
      <elementSeq exposures="253" val="250" id="5"/>
     </column>
-    <column type="0" name="Drawing_1_4" displayOrder="6" width="100" anonymous="true" id="6">
+    <column type="0" name="Drawing_1_4" display="false" displayOrder="6" width="100" anonymous="true" id="6">
      <elementSeq exposures="11-12" val="1" id="6"/>
      <elementSeq exposures="13-14" val="2" id="6"/>
      <elementSeq exposures="15-16" val="3" id="6"/>
@@ -943,10 +954,12 @@
      <elementSeq exposures="263-264" val="263" id="6"/>
      <elementSeq exposures="265-266" val="268" id="6"/>
      <elementSeq exposures="267-268" val="267" id="6"/>
-     <elementSeq exposures="269-270" val="269" id="6"/>
-     <elementSeq exposures="271-272" val="271" id="6"/>
-     <elementSeq exposures="273-274" val="273" id="6"/>
-     <elementSeq exposures="275" val="275" id="6"/>
+     <elementSeq exposures="269-270" val="271" id="6"/>
+     <elementSeq exposures="271-272" val="273" id="6"/>
+     <elementSeq exposures="273-274" val="275" id="6"/>
+     <elementSeq exposures="275-276" val="275_1" id="6"/>
+     <elementSeq exposures="277-278" val="277" id="6"/>
+     <elementSeq exposures="279-285" val="278" id="6"/>
     </column>
     <column type="0" name="Dialogue" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="11" val="7" id="7"/>
@@ -1094,7 +1107,10 @@
      <elementSeq exposures="21-22" val="21_1" id="9"/>
      <elementSeq exposures="23-24" val="23_1" id="9"/>
      <elementSeq exposures="25-26" val="25" id="9"/>
-     <elementSeq exposures="27" val="27" id="9"/>
+     <elementSeq exposures="27-30" val="27" id="9"/>
+     <elementSeq exposures="31-32" val="31_1" id="9"/>
+     <elementSeq exposures="33-34" val="33_1" id="9"/>
+     <elementSeq exposures="35" val="35_1" id="9"/>
     </column>
    </columns>
    <options>
@@ -1576,6 +1592,7 @@
      </module>
      <module type="READ" name="LeoTalking" pos="0,0,0" publishUnderTab="Drawing_1_4">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>

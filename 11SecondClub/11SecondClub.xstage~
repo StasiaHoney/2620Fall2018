@@ -257,6 +257,11 @@
     <dwg name="261"/>
     <dwg name="263"/>
     <dwg name="268"/>
+    <dwg name="267"/>
+    <dwg name="269"/>
+    <dwg name="271"/>
+    <dwg name="273"/>
+    <dwg name="275"/>
    </drawings>
   </element>
   <element id="7" elementName="Dialogue" elementFolder="Dialogue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -936,7 +941,12 @@
      <elementSeq exposures="259-260" val="259" id="6"/>
      <elementSeq exposures="261-262" val="261" id="6"/>
      <elementSeq exposures="263-264" val="263" id="6"/>
-     <elementSeq exposures="265" val="268" id="6"/>
+     <elementSeq exposures="265-266" val="268" id="6"/>
+     <elementSeq exposures="267-268" val="267" id="6"/>
+     <elementSeq exposures="269-270" val="269" id="6"/>
+     <elementSeq exposures="271-272" val="271" id="6"/>
+     <elementSeq exposures="273-274" val="273" id="6"/>
+     <elementSeq exposures="275" val="275" id="6"/>
     </column>
     <column type="0" name="Dialogue" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="11" val="7" id="7"/>
