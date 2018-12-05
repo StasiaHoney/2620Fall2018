@@ -194,6 +194,37 @@
     <dwg name="145_1"/>
     <dwg name="147"/>
     <dwg name="149"/>
+    <dwg name="151"/>
+    <dwg name="139_2"/>
+    <dwg name="141_2"/>
+    <dwg name="143_2"/>
+    <dwg name="145_2"/>
+    <dwg name="147_1"/>
+    <dwg name="149_1"/>
+    <dwg name="151_1"/>
+    <dwg name="153"/>
+    <dwg name="155"/>
+    <dwg name="157"/>
+    <dwg name="137_1"/>
+    <dwg name="139_3"/>
+    <dwg name="141_3"/>
+    <dwg name="143_3"/>
+    <dwg name="145_3"/>
+    <dwg name="147_2"/>
+    <dwg name="139_4"/>
+    <dwg name="151_2"/>
+    <dwg name="153_1"/>
+    <dwg name="155_1"/>
+    <dwg name="157_1"/>
+    <dwg name="159"/>
+    <dwg name="161"/>
+    <dwg name="185"/>
+    <dwg name="187"/>
+    <dwg name="189"/>
+    <dwg name="191"/>
+    <dwg name="193"/>
+    <dwg name="183"/>
+    <dwg name="185_1"/>
    </drawings>
   </element>
   <element id="7" elementName="Dialogue" elementFolder="Dialogue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -366,6 +397,17 @@
     <dwg name="1_1"/>
     <dwg name="3_1"/>
     <dwg name="5_1"/>
+    <dwg name="7_1"/>
+    <dwg name="9_1"/>
+    <dwg name="11_1"/>
+    <dwg name="13_1"/>
+    <dwg name="15_1"/>
+    <dwg name="17_1"/>
+    <dwg name="19_1"/>
+    <dwg name="21_1"/>
+    <dwg name="23_1"/>
+    <dwg name="25"/>
+    <dwg name="27"/>
    </drawings>
   </element>
  </elements>
@@ -812,13 +854,26 @@
      <elementSeq exposures="131-132" val="131" id="6"/>
      <elementSeq exposures="133-134" val="133" id="6"/>
      <elementSeq exposures="135-136" val="135" id="6"/>
-     <elementSeq exposures="137-138" val="137" id="6"/>
-     <elementSeq exposures="139-140" val="139_1" id="6"/>
-     <elementSeq exposures="141-142" val="141_1" id="6"/>
-     <elementSeq exposures="143-144" val="143_1" id="6"/>
-     <elementSeq exposures="145-146" val="145_1" id="6"/>
-     <elementSeq exposures="147-148" val="147" id="6"/>
-     <elementSeq exposures="149" val="149" id="6"/>
+     <elementSeq exposures="137-138" val="137_1" id="6"/>
+     <elementSeq exposures="139-140" val="139_4" id="6"/>
+     <elementSeq exposures="141-142" val="139_3" id="6"/>
+     <elementSeq exposures="143-144" val="141_3" id="6"/>
+     <elementSeq exposures="145-146" val="143_3" id="6"/>
+     <elementSeq exposures="147-148" val="145_3" id="6"/>
+     <elementSeq exposures="149-150" val="147_2" id="6"/>
+     <elementSeq exposures="151-152" val="151_2" id="6"/>
+     <elementSeq exposures="153-154" val="153_1" id="6"/>
+     <elementSeq exposures="155-156" val="155_1" id="6"/>
+     <elementSeq exposures="157-158" val="157_1" id="6"/>
+     <elementSeq exposures="159-160" val="159" id="6"/>
+     <elementSeq exposures="161-180" val="161" id="6"/>
+     <elementSeq exposures="181-182" val="185" id="6"/>
+     <elementSeq exposures="183-184" val="183" id="6"/>
+     <elementSeq exposures="185-186" val="185_1" id="6"/>
+     <elementSeq exposures="187-188" val="187" id="6"/>
+     <elementSeq exposures="189-190" val="189" id="6"/>
+     <elementSeq exposures="191-192" val="191" id="6"/>
+     <elementSeq exposures="193" val="193" id="6"/>
     </column>
     <column type="0" name="Dialogue" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="11" val="7" id="7"/>
@@ -955,7 +1010,18 @@
     <column type="0" name="AnnabelleMovement" displayOrder="5" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-2" val="1_1" id="9"/>
      <elementSeq exposures="3-4" val="3_1" id="9"/>
-     <elementSeq exposures="5" val="5_1" id="9"/>
+     <elementSeq exposures="5-6" val="5_1" id="9"/>
+     <elementSeq exposures="7-8" val="7_1" id="9"/>
+     <elementSeq exposures="9-10" val="9_1" id="9"/>
+     <elementSeq exposures="11-12" val="11_1" id="9"/>
+     <elementSeq exposures="13-14" val="13_1" id="9"/>
+     <elementSeq exposures="15-16" val="15_1" id="9"/>
+     <elementSeq exposures="17-18" val="17_1" id="9"/>
+     <elementSeq exposures="19-20" val="19_1" id="9"/>
+     <elementSeq exposures="21-22" val="21_1" id="9"/>
+     <elementSeq exposures="23-24" val="23_1" id="9"/>
+     <elementSeq exposures="25-26" val="25" id="9"/>
+     <elementSeq exposures="27" val="27" id="9"/>
     </column>
    </columns>
    <options>
@@ -1333,7 +1399,6 @@
      </module>
      <module type="READ" name="AnnabelleMovement" pos="0,0,0" publishUnderTab="Drawing_2_1">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>

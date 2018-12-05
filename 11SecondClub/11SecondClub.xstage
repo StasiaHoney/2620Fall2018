@@ -195,6 +195,36 @@
     <dwg name="147"/>
     <dwg name="149"/>
     <dwg name="151"/>
+    <dwg name="139_2"/>
+    <dwg name="141_2"/>
+    <dwg name="143_2"/>
+    <dwg name="145_2"/>
+    <dwg name="147_1"/>
+    <dwg name="149_1"/>
+    <dwg name="151_1"/>
+    <dwg name="153"/>
+    <dwg name="155"/>
+    <dwg name="157"/>
+    <dwg name="137_1"/>
+    <dwg name="139_3"/>
+    <dwg name="141_3"/>
+    <dwg name="143_3"/>
+    <dwg name="145_3"/>
+    <dwg name="147_2"/>
+    <dwg name="139_4"/>
+    <dwg name="151_2"/>
+    <dwg name="153_1"/>
+    <dwg name="155_1"/>
+    <dwg name="157_1"/>
+    <dwg name="159"/>
+    <dwg name="161"/>
+    <dwg name="185"/>
+    <dwg name="187"/>
+    <dwg name="189"/>
+    <dwg name="191"/>
+    <dwg name="193"/>
+    <dwg name="183"/>
+    <dwg name="185_1"/>
    </drawings>
   </element>
   <element id="7" elementName="Dialogue" elementFolder="Dialogue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -760,7 +790,7 @@
      <elementSeq exposures="234-252" val="231" id="5"/>
      <elementSeq exposures="253" val="250" id="5"/>
     </column>
-    <column type="0" name="Drawing_1_4" display="false" displayOrder="6" width="100" anonymous="true" id="6">
+    <column type="0" name="Drawing_1_4" displayOrder="6" width="100" anonymous="true" id="6">
      <elementSeq exposures="11-12" val="1" id="6"/>
      <elementSeq exposures="13-14" val="2" id="6"/>
      <elementSeq exposures="15-16" val="3" id="6"/>
@@ -824,7 +854,26 @@
      <elementSeq exposures="131-132" val="131" id="6"/>
      <elementSeq exposures="133-134" val="133" id="6"/>
      <elementSeq exposures="135-136" val="135" id="6"/>
-     <elementSeq exposures="137-138" val="137" id="6"/>
+     <elementSeq exposures="137-138" val="137_1" id="6"/>
+     <elementSeq exposures="139-140" val="139_4" id="6"/>
+     <elementSeq exposures="141-142" val="139_3" id="6"/>
+     <elementSeq exposures="143-144" val="141_3" id="6"/>
+     <elementSeq exposures="145-146" val="143_3" id="6"/>
+     <elementSeq exposures="147-148" val="145_3" id="6"/>
+     <elementSeq exposures="149-150" val="147_2" id="6"/>
+     <elementSeq exposures="151-152" val="151_2" id="6"/>
+     <elementSeq exposures="153-154" val="153_1" id="6"/>
+     <elementSeq exposures="155-156" val="155_1" id="6"/>
+     <elementSeq exposures="157-158" val="157_1" id="6"/>
+     <elementSeq exposures="159-160" val="159" id="6"/>
+     <elementSeq exposures="161-180" val="161" id="6"/>
+     <elementSeq exposures="181-182" val="185" id="6"/>
+     <elementSeq exposures="183-184" val="183" id="6"/>
+     <elementSeq exposures="185-186" val="185_1" id="6"/>
+     <elementSeq exposures="187-188" val="187" id="6"/>
+     <elementSeq exposures="189-190" val="189" id="6"/>
+     <elementSeq exposures="191-192" val="191" id="6"/>
+     <elementSeq exposures="193" val="193" id="6"/>
     </column>
     <column type="0" name="Dialogue" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="11" val="7" id="7"/>
@@ -1454,7 +1503,6 @@
      </module>
      <module type="READ" name="LeoTalking" pos="0,0,0" publishUnderTab="Drawing_1_4">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
