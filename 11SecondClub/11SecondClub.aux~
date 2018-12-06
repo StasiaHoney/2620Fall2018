@@ -250,6 +250,9 @@
   <Drawing Key="" Name="271" Version="1"/>
   <Drawing Key="" Name="273" Version="1"/>
   <Drawing Key="" Name="275" Version="1"/>
+  <Drawing Key="" Name="275_1" Version="1"/>
+  <Drawing Key="" Name="277" Version="1"/>
+  <Drawing Key="" Name="278" Version="1"/>
  </Element>
  <Element Name="Dialogue" ID="7" Folder="Dialogue">
   <Drawing Key="" Name="7" Version="1"/>
@@ -427,5 +430,36 @@
   <Drawing Key="" Name="23_1" Version="1"/>
   <Drawing Key="" Name="25" Version="1"/>
   <Drawing Key="" Name="27" Version="1"/>
+  <Drawing Key="" Name="29" Version="1"/>
+  <Drawing Key="" Name="31" Version="1"/>
+  <Drawing Key="" Name="33" Version="1"/>
+  <Drawing Key="" Name="35" Version="1"/>
+  <Drawing Key="" Name="37" Version="1"/>
+  <Drawing Key="" Name="31_1" Version="1"/>
+  <Drawing Key="" Name="33_1" Version="1"/>
+  <Drawing Key="" Name="35_1" Version="1"/>
+  <Drawing Key="" Name="35_2" Version="1"/>
+  <Drawing Key="" Name="39" Version="1"/>
+  <Drawing Key="" Name="41" Version="1"/>
+  <Drawing Key="" Name="43" Version="1"/>
+  <Drawing Key="" Name="45" Version="1"/>
+  <Drawing Key="" Name="47" Version="1"/>
+  <Drawing Key="" Name="49" Version="1"/>
+  <Drawing Key="" Name="47_1" Version="1"/>
+  <Drawing Key="" Name="49_1" Version="1"/>
+  <Drawing Key="" Name="51" Version="1"/>
+  <Drawing Key="" Name="53" Version="1"/>
+  <Drawing Key="" Name="55" Version="1"/>
+  <Drawing Key="" Name="57" Version="1"/>
+  <Drawing Key="" Name="59" Version="1"/>
+  <Drawing Key="" Name="61" Version="1"/>
+  <Drawing Key="" Name="63" Version="1"/>
+  <Drawing Key="" Name="65" Version="1"/>
+  <Drawing Key="" Name="67" Version="1"/>
+  <Drawing Key="" Name="69" Version="1"/>
+  <Drawing Key="" Name="71" Version="1"/>
+ </Element>
+ <Element Name="Drawing_2" ID="10" Folder="Drawing_2">
+  <Drawing Key="" Name="43" Version="1"/>
  </Element>
 </SceneVersion>
