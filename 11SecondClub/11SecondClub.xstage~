@@ -265,6 +265,11 @@
     <dwg name="275_1"/>
     <dwg name="277"/>
     <dwg name="278"/>
+    <dwg name="1_1"/>
+    <dwg name="3_1"/>
+    <dwg name="5_1"/>
+    <dwg name="7_1"/>
+    <dwg name="9_1"/>
    </drawings>
   </element>
   <element id="7" elementName="Dialogue" elementFolder="Dialogue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -480,47 +485,19 @@
     <dwg name="37_1"/>
     <dwg name="39_1"/>
     <dwg name="29_1"/>
+    <dwg name="79"/>
+    <dwg name="81"/>
+    <dwg name="83"/>
+    <dwg name="79_1"/>
+    <dwg name="81_1"/>
+    <dwg name="83_1"/>
+    <dwg name="85"/>
+    <dwg name="87"/>
    </drawings>
   </element>
   <element id="10" elementName="Drawing_2" elementFolder="Drawing_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="43"/>
-   </drawings>
-  </element>
-  <element id="11" elementName="Drawing_2_1" elementFolder="Drawing_2_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
-   <drawings>
-    <dwg name="1"/>
-    <dwg name="3"/>
-    <dwg name="5"/>
-    <dwg name="7"/>
-    <dwg name="9"/>
-    <dwg name="11"/>
-    <dwg name="13"/>
-    <dwg name="15"/>
-    <dwg name="17"/>
-    <dwg name="19"/>
-    <dwg name="21"/>
-    <dwg name="23"/>
-    <dwg name="25"/>
-    <dwg name="27"/>
-    <dwg name="29"/>
-    <dwg name="31"/>
-    <dwg name="33"/>
-    <dwg name="35"/>
-    <dwg name="37"/>
-    <dwg name="39"/>
-    <dwg name="41"/>
-    <dwg name="43"/>
-    <dwg name="45"/>
-    <dwg name="47"/>
-    <dwg name="49"/>
-    <dwg name="51"/>
-    <dwg name="53"/>
-    <dwg name="55"/>
-    <dwg name="57"/>
-    <dwg name="59"/>
-    <dwg name="61"/>
-    <dwg name="63"/>
    </drawings>
   </element>
  </elements>
@@ -864,11 +841,11 @@
     <column type="0" name="Drawing_1" displayOrder="1" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
     </column>
-    <column type="0" name="Drawing_1_1" displayOrder="9" width="100" anonymous="true" id="3">
+    <column type="0" name="Drawing_1_1" displayOrder="8" width="100" anonymous="true" id="3">
      <elementSeq exposures="15-25" val="15" id="3"/>
      <elementSeq exposures="26-244" val="26" id="3"/>
     </column>
-    <column type="0" name="Drawing_1_2" displayOrder="10" width="100" anonymous="true" id="4">
+    <column type="0" name="Drawing_1_2" displayOrder="9" width="100" anonymous="true" id="4">
      <elementSeq exposures="26-27" val="26_1" id="4"/>
      <elementSeq exposures="28-29" val="28" id="4"/>
      <elementSeq exposures="30-35" val="30" id="4"/>
@@ -888,7 +865,7 @@
      <elementSeq exposures="66-69" val="58" id="4"/>
      <elementSeq exposures="70" val="62" id="4"/>
     </column>
-    <column type="0" name="Drawing_1_3" displayOrder="11" width="100" anonymous="true" id="5">
+    <column type="0" name="Drawing_1_3" displayOrder="10" width="100" anonymous="true" id="5">
      <elementSeq exposures="199-201" val="199" id="5"/>
      <elementSeq exposures="202-204" val="202" id="5"/>
      <elementSeq exposures="205-207" val="205" id="5"/>
@@ -903,7 +880,12 @@
      <elementSeq exposures="234-252" val="231" id="5"/>
      <elementSeq exposures="253" val="250" id="5"/>
     </column>
-    <column type="0" name="Drawing_1_4" displayOrder="7" width="100" anonymous="true" id="6">
+    <column type="0" name="Drawing_1_4" displayOrder="6" width="100" anonymous="true" id="6">
+     <elementSeq exposures="1-2" val="1_1" id="6"/>
+     <elementSeq exposures="3-4" val="3_1" id="6"/>
+     <elementSeq exposures="5-6" val="5_1" id="6"/>
+     <elementSeq exposures="7-8" val="7_1" id="6"/>
+     <elementSeq exposures="9-10" val="9_1" id="6"/>
      <elementSeq exposures="11-12" val="1" id="6"/>
      <elementSeq exposures="13-14" val="2" id="6"/>
      <elementSeq exposures="15-16" val="3" id="6"/>
@@ -1026,7 +1008,7 @@
      <elementSeq exposures="277-278" val="277" id="6"/>
      <elementSeq exposures="279-285" val="278" id="6"/>
     </column>
-    <column type="0" name="Dialogue" displayOrder="8" width="100" anonymous="true" id="7">
+    <column type="0" name="Dialogue" displayOrder="7" width="100" anonymous="true" id="7">
      <elementSeq exposures="11" val="7" id="7"/>
      <elementSeq exposures="12" val="8" id="7"/>
      <elementSeq exposures="13" val="9" id="7"/>
@@ -1158,7 +1140,7 @@
     <column type="0" name="Mirror" displayOrder="3" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-289" val="1" id="8"/>
     </column>
-    <column type="0" name="AnnabelleMovement" displayOrder="5" width="100" anonymous="true" id="9">
+    <column type="0" name="AnnabelleMovement" display="false" displayOrder="5" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-2" val="1_1" id="9"/>
      <elementSeq exposures="3-4" val="3_1" id="9"/>
      <elementSeq exposures="5-6" val="5_1" id="9"/>
@@ -1197,44 +1179,15 @@
      <elementSeq exposures="71-72" val="65" id="9"/>
      <elementSeq exposures="73-74" val="67" id="9"/>
      <elementSeq exposures="75-76" val="69" id="9"/>
-     <elementSeq exposures="77" val="71" id="9"/>
+     <elementSeq exposures="77-78" val="71" id="9"/>
+     <elementSeq exposures="79-80" val="79_1" id="9"/>
+     <elementSeq exposures="81-82" val="81_1" id="9"/>
+     <elementSeq exposures="83-84" val="83_1" id="9"/>
+     <elementSeq exposures="85-86" val="85" id="9"/>
+     <elementSeq exposures="87" val="87" id="9"/>
     </column>
-    <column type="0" name="Drawing_2" displayOrder="12" width="100" anonymous="true" id="10">
+    <column type="0" name="Drawing_2" displayOrder="11" width="100" anonymous="true" id="10">
      <elementSeq exposures="1-2" val="43" id="10"/>
-    </column>
-    <column type="0" name="Drawing_2_1" displayOrder="6" width="100" anonymous="true" id="11">
-     <elementSeq exposures="1-2" val="1" id="11"/>
-     <elementSeq exposures="3-4" val="3" id="11"/>
-     <elementSeq exposures="5-6" val="5" id="11"/>
-     <elementSeq exposures="7-8" val="7" id="11"/>
-     <elementSeq exposures="9-10" val="9" id="11"/>
-     <elementSeq exposures="11-12" val="11" id="11"/>
-     <elementSeq exposures="13-14" val="13" id="11"/>
-     <elementSeq exposures="15-16" val="15" id="11"/>
-     <elementSeq exposures="17-18" val="17" id="11"/>
-     <elementSeq exposures="19-20" val="19" id="11"/>
-     <elementSeq exposures="21-22" val="21" id="11"/>
-     <elementSeq exposures="23-24" val="23" id="11"/>
-     <elementSeq exposures="25-26" val="25" id="11"/>
-     <elementSeq exposures="27-28" val="27" id="11"/>
-     <elementSeq exposures="29-30" val="29" id="11"/>
-     <elementSeq exposures="31-32" val="31" id="11"/>
-     <elementSeq exposures="33-34" val="33" id="11"/>
-     <elementSeq exposures="35-36" val="35" id="11"/>
-     <elementSeq exposures="37-38" val="37" id="11"/>
-     <elementSeq exposures="39-40" val="39" id="11"/>
-     <elementSeq exposures="41-42" val="41" id="11"/>
-     <elementSeq exposures="43-44" val="43" id="11"/>
-     <elementSeq exposures="45-46" val="45" id="11"/>
-     <elementSeq exposures="47-48" val="47" id="11"/>
-     <elementSeq exposures="49-50" val="49" id="11"/>
-     <elementSeq exposures="51-52" val="51" id="11"/>
-     <elementSeq exposures="53-54" val="53" id="11"/>
-     <elementSeq exposures="55-56" val="55" id="11"/>
-     <elementSeq exposures="57-58" val="57" id="11"/>
-     <elementSeq exposures="59-60" val="59" id="11"/>
-     <elementSeq exposures="61-62" val="61" id="11"/>
-     <elementSeq exposures="63" val="63" id="11"/>
     </column>
    </columns>
    <options>
@@ -1612,6 +1565,7 @@
      </module>
      <module type="READ" name="AnnabelleMovement" pos="0,0,0" publishUnderTab="Drawing_2_1">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -1671,110 +1625,6 @@
        <drawing>
         <elementMode val="true"/>
         <element col="AnnabelleMovement">
-         <layer/>
-        </element>
-        <customName>
-         <name/>
-         <extension val="tga"/>
-         <fieldChart val="12" defaultValue="12"/>
-        </customName>
-       </drawing>
-       <readOverlay val="true"/>
-       <readLineArt val="true"/>
-       <readColorArt val="true"/>
-       <readUnderlay val="true"/>
-       <overlayArtDrawingMode val="VectorDrawingMode"/>
-       <lineArtDrawingMode val="VectorDrawingMode"/>
-       <colorArtDrawingMode val="VectorDrawingMode"/>
-       <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <readColor val="true"/>
-       <readTransparency val="true"/>
-       <applyMatteToColor val="N"/>
-       <enableLineTexture val="true"/>
-       <antialiasingQuality val="HIGH"/>
-       <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
-       <textureFilter val="NEAREST_FILTERED"/>
-       <adjustPencilThickness val="false"/>
-       <normalLineArtThickness val="true"/>
-       <zoomIndependentLineArtThickness val="true"/>
-       <multLineArtThickness val="1" defaultValue="1"/>
-       <addLineArtThickness val="0" defaultValue="0"/>
-       <minLineArtThickness val="0" defaultValue="0"/>
-       <maxLineArtThickness val="0" defaultValue="0"/>
-       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
-       <flipHor val="false"/>
-       <flipVert val="false"/>
-       <turnBeforeAlignment val="false"/>
-       <noClipping val="false"/>
-       <xClipFactor val="0"/>
-       <yClipFactor val="0"/>
-       <alignmentRule val="CENTER_FIRST_PAGE"/>
-       <morphingVelo val="0" defaultValue="0"/>
-       <canAnimate val="true"/>
-      </attrs>
-     </module>
-     <module type="READ" name="Drawing_2_1" pos="0,0,0" publishUnderTab="Drawing_2_1">
-      <options>
-       <version val="1"/>
-       <collapsed val="false"/>
-      </options>
-      <attrs>
-       <enable3d val="false"/>
-       <faceCamera val="false"/>
-       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
-       <offset>
-        <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </offset>
-       <scale>
-        <separate val="true"/>
-        <inFields val="false"/>
-        <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
-        <z val="1" defaultValue="1"/>
-       </scale>
-       <rotation>
-        <separate val="false"/>
-        <anglex val="0" defaultValue="0"/>
-        <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
-       </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
-       <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </pivot>
-       <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </splineOffset>
-       <ignoreParentPegScaling val="false"/>
-       <disableFieldRendering val="false"/>
-       <depth val="0"/>
-       <enableMinMaxAngle val="false"/>
-       <minAngle val="-360" defaultValue="-360"/>
-       <maxAngle val="360" defaultValue="360"/>
-       <nailForChildren val="false"/>
-       <ikHoldOrientation val="false"/>
-       <ikHoldX val="false"/>
-       <ikHoldY val="false"/>
-       <ikExcluded val="false"/>
-       <ikCanRotate val="true"/>
-       <ikCanTranslateX val="false"/>
-       <ikCanTranslateY val="false"/>
-       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
-       <ikBoneY val="0" defaultValue="0"/>
-       <ikStiffness val="1" defaultValue="1"/>
-       <drawing>
-        <elementMode val="true"/>
-        <element col="Drawing_2_1">
          <layer/>
         </element>
         <customName>
@@ -2450,11 +2300,10 @@
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="LeoFinal" in="Composite" inport="10"/>
-     <link out="Mirror" in="Composite" inport="9"/>
-     <link out="StoryBoard" in="Composite" inport="8"/>
-     <link out="AnnabelleMovement" in="Composite" inport="7"/>
-     <link out="Drawing_2_1" in="Composite" inport="6"/>
+     <link out="LeoFinal" in="Composite" inport="9"/>
+     <link out="Mirror" in="Composite" inport="8"/>
+     <link out="StoryBoard" in="Composite" inport="7"/>
+     <link out="AnnabelleMovement" in="Composite" inport="6"/>
      <link out="LeoTalking" in="Composite" inport="5"/>
      <link out="Dialogue" in="Composite" inport="4"/>
      <link out="Bed" in="Composite" inport="3"/>
