@@ -10,3 +10,5 @@ Solid    AnnabelleSketch            0x095bba0c1b18ab66  19  13  98 255
 Solid    Mirror                     0x095fc3a1f503e534  45 232 191 255
 Solid    "New 0"                    0x0961c48554eca022 255 232 191 255
 Solid    "New 1"                    0x0961c48554ecb4e6 196 235 231  69
+Solid    "New 0"                    0x0961de7d1be7cca3 115 122 120 255
+Solid    "New 1"                    0x0961de7d1be7ea96 215 208 203 255
