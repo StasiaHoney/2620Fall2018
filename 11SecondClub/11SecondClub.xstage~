@@ -502,6 +502,7 @@
     <dwg name="94"/>
     <dwg name="95"/>
     <dwg name="96"/>
+    <dwg name="97"/>
    </drawings>
   </element>
   <element id="12" elementName="LipSync" elementFolder="LipSync" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -1660,16 +1661,7 @@
      <elementSeq exposures="81-82" val="81_1" id="9"/>
      <elementSeq exposures="83-84" val="83_1" id="9"/>
      <elementSeq exposures="85-86" val="85" id="9"/>
-     <elementSeq exposures="87-88" val="87" id="9"/>
-     <elementSeq exposures="89-90" val="88" id="9"/>
-     <elementSeq exposures="91-92" val="89" id="9"/>
-     <elementSeq exposures="93-94" val="90" id="9"/>
-     <elementSeq exposures="95-96" val="91" id="9"/>
-     <elementSeq exposures="97-98" val="92" id="9"/>
-     <elementSeq exposures="99-100" val="93" id="9"/>
-     <elementSeq exposures="101-102" val="94" id="9"/>
-     <elementSeq exposures="103-104" val="95" id="9"/>
-     <elementSeq exposures="105" val="96" id="9"/>
+     <elementSeq exposures="87-285" val="87" id="9"/>
     </column>
     <column type="0" name="Drawing_2_1" displayOrder="11" width="100" anonymous="true" id="12">
      <elementSeq exposures="1-6" val="1" id="12"/>

@@ -891,6 +891,7 @@
     <dwg name="18"/>
     <dwg name="19"/>
     <dwg name="20"/>
+    <dwg name="21"/>
    </drawings>
   </element>
   <element id="16" elementName="Drawing_2" elementFolder="Drawing_2.16" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -1664,27 +1665,6 @@
      <elementSeq exposures="87-285" val="87" id="9"/>
     </column>
     <column type="0" name="Drawing_2_1" displayOrder="11" width="100" anonymous="true" id="12">
-     <elementSeq exposures="1-6" val="1" id="12"/>
-     <elementSeq exposures="7" val="2" id="12"/>
-     <elementSeq exposures="8" val="4" id="12"/>
-     <elementSeq exposures="9" val="5" id="12"/>
-     <elementSeq exposures="10" val="6" id="12"/>
-     <elementSeq exposures="11" val="7" id="12"/>
-     <elementSeq exposures="12" val="8" id="12"/>
-     <elementSeq exposures="13" val="44" id="12"/>
-     <elementSeq exposures="14" val="46" id="12"/>
-     <elementSeq exposures="15" val="48" id="12"/>
-     <elementSeq exposures="16" val="50" id="12"/>
-     <elementSeq exposures="17" val="52" id="12"/>
-     <elementSeq exposures="18" val="54" id="12"/>
-     <elementSeq exposures="19" val="56" id="12"/>
-     <elementSeq exposures="20" val="121" id="12"/>
-     <elementSeq exposures="21" val="122" id="12"/>
-     <elementSeq exposures="22" val="123" id="12"/>
-     <elementSeq exposures="23" val="124" id="12"/>
-     <elementSeq exposures="24" val="125" id="12"/>
-     <elementSeq exposures="25" val="126" id="12"/>
-     <elementSeq exposures="26" val="127" id="12"/>
      <elementSeq exposures="27" val="128" id="12"/>
      <elementSeq exposures="28" val="129" id="12"/>
      <elementSeq exposures="29" val="130" id="12"/>
@@ -1832,7 +1812,7 @@
     <column type="0" name="mirror_shine" displayOrder="4" width="100" anonymous="true" id="14">
      <elementSeq exposures="1-285" val="1" id="14"/>
     </column>
-    <column type="0" name="Leo_Face" display="false" displayOrder="9" width="100" anonymous="true" id="15">
+    <column type="0" name="Leo_Face" displayOrder="9" width="100" anonymous="true" id="15">
      <elementSeq exposures="1-6" val="1" id="15"/>
      <elementSeq exposures="7" val="2" id="15"/>
      <elementSeq exposures="8" val="3" id="15"/>
@@ -1854,19 +1834,18 @@
      <elementSeq exposures="25" val="19" id="15"/>
      <elementSeq exposures="26" val="20" id="15"/>
     </column>
-    <column type="0" name="Drawing_2" display="false" displayOrder="10" width="100" anonymous="true" id="16">
+    <column type="0" name="Drawing_2" displayOrder="10" width="100" anonymous="true" id="16">
      <elementSeq exposures="1-18" val="1" id="16"/>
      <elementSeq exposures="19-20" val="2" id="16"/>
      <elementSeq exposures="21-22" val="3" id="16"/>
      <elementSeq exposures="23-24" val="4" id="16"/>
      <elementSeq exposures="25-26" val="5" id="16"/>
-     <elementSeq exposures="27" val="6" id="16"/>
     </column>
     <column type="0" name="Drawing_3" displayOrder="5" width="100" anonymous="true" id="17">
      <elementSeq exposures="1-96,285" val="1" id="17"/>
      <elementSeq exposures="97" val="2" id="17"/>
     </column>
-    <column type="0" name="Drawing_3_1" display="false" displayOrder="18" width="100" anonymous="true" id="18">
+    <column type="0" name="Drawing_3_1" displayOrder="18" width="100" anonymous="true" id="18">
      <elementSeq exposures="1-285" val="1" id="18"/>
     </column>
     <column type="0" name="Drawing_3_2" displayOrder="12" width="100" anonymous="true" id="19">
@@ -2723,7 +2702,6 @@
      </module>
      <module type="READ" name="Leo_Face" pos="0,0,0" publishUnderTab="Drawing_2_3">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -2828,7 +2806,6 @@
      </module>
      <module type="READ" name="Drawing_2" pos="0,0,0" publishUnderTab="Drawing_2">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -3665,7 +3642,6 @@
      </module>
      <module type="READ" name="Drawing_3_1" pos="0,0,0" publishUnderTab="Drawing_3_1">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
