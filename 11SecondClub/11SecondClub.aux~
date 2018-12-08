@@ -476,10 +476,7 @@
   <Drawing Key="" Name="85" Version="1"/>
   <Drawing Key="" Name="87" Version="1"/>
  </Element>
- <Element Name="Drawing_2" ID="10" Folder="Drawing_2">
-  <Drawing Key="" Name="43" Version="1"/>
- </Element>
- <Element Name="Drawing_2_1" ID="12" Folder="Drawing_2_1">
+ <Element Name="LipSync" ID="12" Folder="LipSync">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="3" Version="1"/>
   <Drawing Key="" Name="9" Version="1"/>
@@ -792,11 +789,79 @@
   <Drawing Key="" Name="289" Version="1"/>
   <Drawing Key="" Name="290" Version="1"/>
   <Drawing Key="" Name="291" Version="1"/>
+  <Drawing Key="" Name="292" Version="1"/>
+  <Drawing Key="" Name="293" Version="1"/>
+  <Drawing Key="" Name="294" Version="1"/>
+  <Drawing Key="" Name="295" Version="1"/>
+  <Drawing Key="" Name="296" Version="1"/>
+  <Drawing Key="" Name="297" Version="1"/>
+  <Drawing Key="" Name="298" Version="1"/>
+  <Drawing Key="" Name="299" Version="1"/>
+  <Drawing Key="" Name="300" Version="1"/>
+  <Drawing Key="" Name="301" Version="1"/>
+  <Drawing Key="" Name="302" Version="1"/>
+  <Drawing Key="" Name="303" Version="1"/>
+  <Drawing Key="" Name="304" Version="1"/>
+  <Drawing Key="" Name="305" Version="1"/>
+  <Drawing Key="" Name="306" Version="1"/>
+  <Drawing Key="" Name="307" Version="1"/>
+  <Drawing Key="" Name="308" Version="1"/>
+  <Drawing Key="" Name="309" Version="1"/>
+  <Drawing Key="" Name="310" Version="1"/>
+  <Drawing Key="" Name="311" Version="1"/>
+  <Drawing Key="" Name="312" Version="1"/>
+  <Drawing Key="" Name="313" Version="1"/>
+  <Drawing Key="" Name="314" Version="1"/>
+  <Drawing Key="" Name="315" Version="1"/>
+  <Drawing Key="" Name="316" Version="1"/>
+  <Drawing Key="" Name="317" Version="1"/>
+  <Drawing Key="" Name="318" Version="1"/>
+  <Drawing Key="" Name="319" Version="1"/>
+  <Drawing Key="" Name="320" Version="1"/>
+  <Drawing Key="" Name="321" Version="1"/>
+  <Drawing Key="" Name="322" Version="1"/>
+  <Drawing Key="" Name="323" Version="1"/>
+  <Drawing Key="" Name="324" Version="1"/>
+  <Drawing Key="" Name="325" Version="1"/>
+  <Drawing Key="" Name="326" Version="1"/>
+  <Drawing Key="" Name="327" Version="1"/>
+  <Drawing Key="" Name="328" Version="1"/>
+  <Drawing Key="" Name="329" Version="1"/>
  </Element>
  <Element Name="Mirror" ID="13" Folder="Mirror.13">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Drawing_2_2" ID="14" Folder="Drawing_2_2">
+ <Element Name="mirror_shine" ID="14" Folder="mirror_shine">
   <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Leo_Face" ID="15" Folder="Leo_Face">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+  <Drawing Key="" Name="8" Version="1"/>
+  <Drawing Key="" Name="9" Version="1"/>
+  <Drawing Key="" Name="10" Version="1"/>
+  <Drawing Key="" Name="11" Version="1"/>
+  <Drawing Key="" Name="12" Version="1"/>
+  <Drawing Key="" Name="13" Version="1"/>
+  <Drawing Key="" Name="14" Version="1"/>
+  <Drawing Key="" Name="15" Version="1"/>
+  <Drawing Key="" Name="16" Version="1"/>
+  <Drawing Key="" Name="17" Version="1"/>
+  <Drawing Key="" Name="18" Version="1"/>
+  <Drawing Key="" Name="19" Version="1"/>
+  <Drawing Key="" Name="20" Version="1"/>
+ </Element>
+ <Element Name="Drawing_2" ID="16" Folder="Drawing_2.16">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
  </Element>
 </SceneVersion>
